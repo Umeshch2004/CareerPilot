@@ -1,0 +1,8 @@
+{
+  "name": "Copy of CareerPilot",
+  "description": "The first AI-powered operating system for your career. Engineer your path to success with automated roadmaps, skill gap analysis, and AI mock interviews.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
