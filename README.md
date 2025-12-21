@@ -6,7 +6,7 @@
 
 This contains everything you need to run your app locally.
 
-View your app in AI Studio: https://ai.studio/apps/drive/13EEK55EH1Y2BCftOhkHrYezzPV7HI4To
+View our app : https://copy-of-careerpilot-121685694982.us-west1.run.app/
 
 ## Run Locally
 
