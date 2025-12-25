@@ -3,7 +3,7 @@
 
 This contains everything you need to run your app locally.
 
-View our app : https://copy-of-careerpilot-121685694982.us-west1.run.app/
+View our app : https://careerpilot-demo-768557944196.us-west1.run.app/
 
 ## Run Locally
 
